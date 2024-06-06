@@ -1,0 +1,81 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/covid19-result---tadds.py
+inputModule2:
+  class: File
+  path: python/positive-covid19---tadds.py
+inputModule3:
+  class: File
+  path: python/covid19-exposure---tadds.py
+inputModule4:
+  class: File
+  path: python/covid19-suspected---tadds.py
+inputModule5:
+  class: File
+  path: python/covid19-confirmed---tadds.py
+inputModule6:
+  class: File
+  path: python/covid19-coronavirus---tadds.py
+inputModule7:
+  class: File
+  path: python/covid19---tadds.py
+inputModule8:
+  class: File
+  path: python/exclude-covid19-hospitalisation---hes.py
+inputModule9:
+  class: File
+  path: python/exclude-long-covid---tadds.py
+inputModule10:
+  class: File
+  path: python/exclude-long-covid-assessment---tadds.py
+inputModule11:
+  class: File
+  path: python/long-covid-symptoms-tiredness---tadds-31-to-186-days-after-covid19.py
+inputModule12:
+  class: File
+  path: python/long-covid-symptoms---tadds-31-to-186-days-after-covid19.py
+inputModule13:
+  class: File
+  path: python/long-covid-symptoms-muscle---tadds-31-to-186-days-after-covid19.py
+inputModule14:
+  class: File
+  path: python/long-covid-symptoms-concentrating---tadds-31-to-186-days-after-covid19.py
+inputModule15:
+  class: File
+  path: python/long-covid-symptoms-smell---tadds-31-to-186-days-after-covid19.py
+inputModule16:
+  class: File
+  path: python/long-covid-symptoms-sleeping---tadds-31-to-186-days-after-covid19.py
+inputModule17:
+  class: File
+  path: python/long-covid-symptoms-headache---tadds-31-to-186-days-after-covid19.py
+inputModule18:
+  class: File
+  path: python/long-covid-symptoms-anxiety---tadds-31-to-186-days-after-covid19.py
+inputModule19:
+  class: File
+  path: python/long-covid-symptoms-confusion---tadds-31-to-186-days-after-covid19.py
+inputModule20:
+  class: File
+  path: python/long-covid-symptoms-dizziness---tadds-31-to-186-days-after-covid19.py
+inputModule21:
+  class: File
+  path: python/long-covid-symptoms-cough---tadds-31-to-186-days-after-covid19.py
+inputModule22:
+  class: File
+  path: python/long-covid-symptoms-palpitations---tadds-31-to-186-days-after-covid19.py
+inputModule23:
+  class: File
+  path: python/long-covid-symptoms-vomiting---tadds-31-to-186-days-after-covid19.py
+inputModule24:
+  class: File
+  path: python/long-covid-symptoms-diarrhoea---tadds-31-to-186-days-after-covid19.py
+inputModule25:
+  class: File
+  path: python/long-covid-symptoms-fever---tadds-31-to-186-days-after-covid19.py
+inputModule26:
+  class: File
+  path: python/output-diagnosis-of-long-covid-symptoms-31-days-to-186-days-after-covid19-without-a-record-of-long-covid-and-covid19-hospitalisation-cases.py
